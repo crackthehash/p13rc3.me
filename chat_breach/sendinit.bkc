@@ -1,0 +1,27 @@
+POST /teen/system/action/chat_log.php HTTP/2
+Host: www.chat-avenue.com
+Cookie: _ga=GA1.1.1515039133.1707655117; __stripe_mid=2cbcad72-3901-449f-8f64-e7398b54048637ef1a; cf_chl_3=e6053c411808c09; cf_clearance=Q8DTGBFfBSckHlrtnM2m0Cuz5Ld9wbx1iXHqFBlu8Kc-1708187087-1.0-Adsflu0KublaqLEmAh5F3udwJ8K4ebsvYUU1vrMR80PsTqjmls/suLHs/7NP58f/9H+xKSawt/OkMZyq75OBHN8=; PHPSESSID=4f744d13bc8e47ea1dbfe9200fd62a32; tc_userid=14964824; tc_utk=4b2c7b90b522e59aa06d10bbb04636c4be4e73bc; _ga_7XWWTPFBB6=GS1.1.1708187113.5.1.1708187137.0.0.0
+Content-Length: 145
+Sec-Ch-Ua: "Chromium";v="121", "Not A(Brand";v="99"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.160 Safari/537.36
+Sec-Ch-Ua-Arch: ""
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Sec-Ch-Ua-Full-Version: ""
+Accept: application/json, text/javascript, */*; q=0.01
+Sec-Ch-Ua-Platform-Version: ""
+X-Requested-With: XMLHttpRequest
+Sec-Ch-Ua-Full-Version-List: 
+Sec-Ch-Ua-Bitness: ""
+Sec-Ch-Ua-Model: ""
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://www.chat-avenue.com
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.chat-avenue.com/teen/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Priority: u=1, i
+
+token=5a6fc135c105c775cd5f1c04d8cac762&cp=chat&fload=1&caction=123496566&last=4592178&preload=0&priv=0&lastp=0&pcount=0&room=1&notify=1&curset=60
