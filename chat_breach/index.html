@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>BackDoor into pëdo chat room. ONGOING INVESTIGATION. Intermediate International Operations involved.</title>
+</head>
+<body>
+    <pre id="response-container"></pre>
+
+    <script>
+        // Fetch the file content as plain text
+        fetch('responses_serverF.json')
+            .then(response => response.text())
+            .then(data => {
+                // Handle the fetched data
+                const responseContainer = document.getElementById('response-container');
+                // Display the content within the <pre> tag
+                responseContainer.textContent = data;
+            })
+            .catch(error => {
+                // Handle any errors that occur during the fetch
+                console.error('Error fetching file content:', error);
+            });
+    </script>
+</body>
+</html>
